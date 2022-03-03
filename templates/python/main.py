@@ -1,6 +1,6 @@
 import requests
 
-def run(request):
+def exercise(request):
     """HTTP Cloud Function.
     Args:
         request (flask.Request): The request object.
